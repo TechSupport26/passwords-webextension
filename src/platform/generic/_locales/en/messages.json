@@ -1243,7 +1243,7 @@
         "description": "First setup step in the first run wizard which tells the user to open the Nextcloud app and click on 'More' and then 'Apps & Extensions'."
     },
     "FirstRunConnectLink2": {
-        "message": "Choose yur Browser and click \"Connect with PassLink\"",
+        "message": "Choose your Browser and click \"Connect with PassLink\"",
         "description": "Second setup step in the first run wizard which tells the user to select the 'Connect with Passlink' option for their browser"
     },
     "FirstRunConnectLink3": {
